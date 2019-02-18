@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/aem63site" mode="merge"/>
+    <filter root="/content/aem63site" mode="merge"/>
+    <filter root="/content/dam/aem63site" mode="merge"/>
+</workspaceFilter>
