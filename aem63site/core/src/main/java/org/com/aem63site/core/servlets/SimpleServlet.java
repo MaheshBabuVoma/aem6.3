@@ -30,7 +30,8 @@ import javax.servlet.Servlet;
 import javax.servlet.ServletException;
 import java.io.IOException;
 
-/**
+/**Author Mahesh
+ * 
  * Servlet that writes some sample content into the response. It is mounted for
  * all resources of a specific Sling resource type. The
  * {@link SlingSafeMethodsServlet} shall be used for HTTP methods that are
