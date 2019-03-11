@@ -3,3 +3,5 @@ It's a modular based java framework. It breaks appication into individual module
 Bundle = Jar file + manifest file
 apache felix console => system/console/bundles
 active Installed Resolved starting Fragment
+
+mahesh
